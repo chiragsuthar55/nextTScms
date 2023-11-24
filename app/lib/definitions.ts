@@ -49,6 +49,7 @@ export type InvoicesTable = {
   customer_id: string;
   name: string;
   email: string;
+  alt: string;
   image_url: string;
   date: string;
   amount: number;
